@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EinsteinDumper.Core\EinsteinDumper.Core.csproj" />
+    <ProjectReference Include="..\EinsteinDumper.Infrastructure\EinsteinDumper.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>
